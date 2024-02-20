@@ -5,7 +5,7 @@
 
 <p align="bottom"> <img src="https://komarev.com/ghpvc/?username=afnanbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbhatkar" /> </p>
 
-  - 🔭 I’m currently working on **Personal ai assistant (PI)**
+<p>- 🔭 I’m currently working on **Personal ai assistant (PI)**</p>
 
 - 🌱 I’m currently learning **Python.**
 
