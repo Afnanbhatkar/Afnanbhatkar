@@ -9,9 +9,9 @@
 
 <p align="center">- 🌱 I’m currently learning <b>Python.</b></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)
+<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)</p>
 
-- 📫 How to reach me **afnanbhatkar346@gmail.com**
+<p align="center">- 📫 How to reach me **afnanbhatkar346@gmail.com**</p>
 
 - ⚡ Fun fact **Creative Mind 😶‍🌫️**
 
