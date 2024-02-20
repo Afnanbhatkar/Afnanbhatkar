@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal ai assistant (PI)**
 
-<p align="center">- 🌱 I’m currently learning **Python.**</p>
+<p align="center">- 🌱 I’m currently learning <b>Python.</b></p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)
 
