@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Afnan Bhatkar!!</h1>
 <h3 align="center">A passionate creative developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=3532b07490db4deb&rlz=1C1CHBD_enIN1096IN1096&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwix-IKNtLmEAxXmRmcHHXlWALMQ0pQJegQIDBAB&biw=1920&bih=911&dpr=1#imgrc=4JjEn91PKfrRsM")
