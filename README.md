@@ -9,7 +9,7 @@
 
 <p align="center">- 🌱 I’m currently learning <b>Python.</b></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)
+<p align="center">- 👨‍💻 All of my projects are available at<br> [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)</p>
 
 <p align="center">- 📫 How to reach me **afnanbhatkar346@gmail.com**</p>
 
