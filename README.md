@@ -13,7 +13,7 @@
 
 <p align="right" >- 📫 How to reach me afnanbhatkar346@gmail.com </p>
 
-<p align="center">- ⚡ Fun fact <b></b>Creative Mind 😶‍🌫️</b></p>
+<p align="center">- ⚡ Fun fact <b>Creative Mind 😶‍🌫️</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="right">
