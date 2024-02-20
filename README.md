@@ -3,7 +3,7 @@
 <h3 align="center">A passionate creative developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbhatkar" /> </p>
+<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=afnanbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbhatkar" /> </p>
 
 - 🔭 I’m currently working on **Personal ai assistant (PI)**
 
