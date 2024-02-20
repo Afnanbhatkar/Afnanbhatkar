@@ -7,7 +7,7 @@
 
 <p align="center">- 🔭 I’m currently working on **Personal ai assistant (PI)**</p>
 
-- 🌱 I’m currently learning **Python.**
+<p align="center">- 🌱 I’m currently learning **Python.**</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)
 
