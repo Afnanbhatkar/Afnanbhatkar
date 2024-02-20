@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://www.google.com/search?q=banner+for+github+profile+animated&tbm=isch&ved=2ahUKEwj80NnXs7mEAxXBamwGHXGOAl8Q2-cCegQIABAA&oq=banner+for+github+profile+animated&gs_lp=EgNpbWciImJhbm5lciBmb3IgZ2l0aHViIHByb2ZpbGUgYW5pbWF0ZWRIrCdQzwdY3xxwAHgAkAEAmAGUAaAB9gmqAQQwLjEwuAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgcQABiABBgYiAYB&sclient=img&ei=2VXUZbyAIMHVseMP8ZyK-AU&bih=911&biw=1920&rlz=1C1CHBD_enIN1096IN1096#imgrc=kfpqCuXmfeFi9M)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Afnan Bhatkar!!</h1>
 <h3 align="center">A passionate creative developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif")
