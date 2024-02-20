@@ -3,17 +3,18 @@
 <h3 align="center">A passionate creative developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=afnanbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbhatkar" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=afnanbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbhatkar" /> </p>
 
-<p align="right" >- 🔭 I’m currently working on <b>Personal ai assistant (PI)</b></p>
+- 🔭 I’m currently working on **Personal ai assistant (PI)**
 
-<p align="center">- 🌱 I’m currently learning <b>Python.</b></p>
+- 🌱 I’m currently learning **Python.**
 
-<p align="center">- 👨‍💻 All of my projects are available at<br> https://github.com/Afnanbhatkar</p>
+- 👨‍💻 All of my projects are available at [https://github.com/Afnanbhatkar](https://github.com/Afnanbhatkar)
 
-<p align="right" >- 📫 How to reach me afnanbhatkar346@gmail.com </p>
+- 📫 How to reach me **afnanbhatkar346@gmail.com**
 
-<p align="center">- ⚡ Fun fact <b>Creative Mind 😶‍🌫️</b></p>
+- ⚡ Fun fact **Creative Mind 😶‍🌫️**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="right">
