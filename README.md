@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Afnan Bhatkar!!</h1>
 <h3 align="center">A passionate creative developer from India</h3>
-(img align="right" alt="Coding" width="400" src="[[https://www.google.com/search?sca_esv=3532b07490db4deb&rlz=1C1CHBD_enIN1096IN1096&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwix-IKNtLmEAxXmRmcHHXlWALMQ0pQJegQIDBAB&biw=1920&bih=911&dpr=1#imgrc=4JjEn91PKfrRsM](https://www.google.com/search?sca_esv=3532b07490db4deb&rlz=1C1CHBD_enIN1096IN1096&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwix-IKNtLmEAxXmRmcHHXlWALMQ0pQJegQIDBAB&biw=1920&bih=911&dpr=1#imgrc=zhjSEq0Xd_DH7M)](https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75)")
+(img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanbhatkar&label=Profile%20views&color=0e75b6&style=flat" alt="afnanbhatkar" /> </p>
 
