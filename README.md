@@ -11,7 +11,7 @@
 
 <p align="center">- 👨‍💻 All of my projects are available at<br> https://github.com/Afnanbhatkar</p>
 
-<p align="center">- 📫 How to reach me **afnanbhatkar346@gmail.com**</p>
+<p align="center">- 📫 How to reach me <a></a>afnanbhatkar346@gmail.com</a></p>
 
 - ⚡ Fun fact **Creative Mind 😶‍🌫️**
 
